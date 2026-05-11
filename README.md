@@ -1,4 +1,4 @@
-# ss-gVAE
+# A Semi-Supervised Generalized VAE (ss-gVAE) Framework for Abnormality Detection Using One-Class Classification 
 
 Reference implementation for the WACV 2022 paper
 **"A Semi-Supervised Generalized VAE Framework for Abnormality Detection
