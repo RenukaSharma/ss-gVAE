@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "ss-generalized-vae: A Semi-Supervised Generalized VAE Framework for Abnormality Detection Using One-Class Classification"
+title: "ss-gVAE: A Semi-Supervised Generalized VAE Framework for Abnormality Detection Using One-Class Classification"
 message: "If you use this software, please cite the accompanying paper below."
 type: software
 authors:
@@ -9,7 +9,7 @@ authors:
     given-names: "Satvik"
   - family-names: "Awate"
     given-names: "Suyash P."
-repository-code: "https://github.com/RenukaSharma/ss-generalized-vae"
+repository-code: "https://github.com/RenukaSharma/ss-gVAE"
 license: MIT
 preferred-citation:
   type: conference-paper

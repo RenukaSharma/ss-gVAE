@@ -1,4 +1,4 @@
-# ss-generalized-vae
+# ss-gVAE
 
 Reference implementation for the WACV 2022 paper
 **"A Semi-Supervised Generalized VAE Framework for Abnormality Detection
@@ -152,7 +152,7 @@ For per-figure reproduction commands see
 ## Repository layout
 
 ```text
-ss-generalized-vae/
+ss-gVAE/
 ├── src/                        # main codebase (ss-gVAE + baselines)
 │   ├── base/                   # base Dataset / Net / Trainer abstractions
 │   ├── networks/               # LeNet, VAE, GG, MVTec, Malaria nets
@@ -184,7 +184,7 @@ ss-generalized-vae/
 ```bash
 # 1. Create the conda environment (PyTorch 1.1.0 / Python 3.7)
 conda env create -f environment.yml
-conda activate ss-generalized-vae
+conda activate ss-gvae
 
 # 2. Set paths (drop into ~/.ss-gvae.env to source later)
 export DATA_DIR=$HOME/data
@@ -269,7 +269,7 @@ Companion repositories from the same thesis:
 
 | Chapter | Topic                                       | Repository                    |
 | ------- | ------------------------------------------- | ----------------------------- |
-| Ch. 3   | ss-gVAE &mdash; this repository             | `ss-generalized-vae` (here)   |
+| Ch. 3   | ss-gVAE &mdash; this repository             | [`ss-gVAE`](https://github.com/RenukaSharma/ss-gVAE) (here)   |
 | Ch. 4   | RU-VAE (ISBI 2022)                          | *coming soon*                 |
 | Ch. 5   | ss-ms-gVAE &mdash; multi-scale extension    | *coming soon*                 |
 | Ch. 6   | Anomaly localization (ss-vq-vae)            | [`ss-vq-vae`](https://github.com/RenukaSharma/ss-vq-vae) (in preparation) |
