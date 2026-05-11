@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "ss-generalized-vae: A Semi-Supervised Generalized VAE Framework for Abnormality Detection Using One-Class Classification"
+message: "If you use this software, please cite the accompanying paper below."
+type: software
+authors:
+  - family-names: "Sharma"
+    given-names: "Renuka"
+  - family-names: "Mashkaria"
+    given-names: "Satvik"
+  - family-names: "Awate"
+    given-names: "Suyash P."
+repository-code: "https://github.com/RenukaSharma/ss-generalized-vae"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "A Semi-Supervised Generalized VAE Framework for Abnormality Detection Using One-Class Classification"
+  authors:
+    - family-names: "Sharma"
+      given-names: "Renuka"
+    - family-names: "Mashkaria"
+      given-names: "Satvik"
+    - family-names: "Awate"
+      given-names: "Suyash P."
+  conference:
+    name: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
+  year: 2022
+  url: "https://openaccess.thecvf.com/content/WACV2022/papers/Sharma_A_Semi-Supervised_Generalized_VAE_Framework_for_Abnormality_Detection_Using_One-Class_WACV_2022_paper.pdf"
+references:
+  - type: thesis
+    title: "Anomaly Detection in Images Using One-class and Multi-class Learning Approaches"
+    authors:
+      - family-names: "Sharma"
+        given-names: "Renuka"
+    institution:
+      name: "Monash University and IIT Bombay (IITB-Monash Research Academy)"
+    year: 2022
+    doi: "10.26180/23584503"
+    url: "https://bridges.monash.edu/articles/thesis/Anomaly_Detection_in_Images_Using_One-class_and_Multi-class_Learning_Approaches/23584503"

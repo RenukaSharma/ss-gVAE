@@ -1,0 +1,67 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+.ipynb_checkpoints/
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# IDE / OS junk
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Logs and run outputs
+log/
+logs/
+results/
+runs/
+*.log
+
+# Cached datasets and tensors (do not commit large data)
+data/
+*.pt
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Models / checkpoints
+*.tar
+*.ckpt
+*.pth
+
+# Figures / plots (do not commit run artefacts; exceptions below)
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.pickle
+*.fig
+
+# README / paper figures (tracked so GitHub renders images)
+!docs/figures/*.png
+!docs/figures/tsne/*.png
+
+# Allow files under examples/ even though they may match patterns above.
+!examples/**
+
+# Editor-generated swap files
+*~
+.#*
+\#*#
+
+# Internal audit file \u2014 not for public release
+CLEANUP_LOG.md
