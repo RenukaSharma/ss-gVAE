@@ -2,13 +2,11 @@ cff-version: 1.2.0
 title: "ss-gVAE: A Semi-Supervised Generalized VAE Framework for Abnormality Detection Using One-Class Classification"
 message: "If you use this software, please cite the accompanying paper below."
 type: software
+# Software / repository maintainer only (GitHub “Cite this repository” software card).
+# Publication authorship for the WACV paper remains in preferred-citation below.
 authors:
   - family-names: "Sharma"
     given-names: "Renuka"
-  - family-names: "Mashkaria"
-    given-names: "Satvik"
-  - family-names: "Awate"
-    given-names: "Suyash P."
 repository-code: "https://github.com/RenukaSharma/ss-gVAE"
 license: MIT
 preferred-citation:

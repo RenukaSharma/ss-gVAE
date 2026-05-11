@@ -270,9 +270,11 @@ Companion repositories from the same thesis:
 | Chapter | Topic                                       | Repository                    |
 | ------- | ------------------------------------------- | ----------------------------- |
 | Ch. 3   | ss-gVAE &mdash; this repository             | [`ss-gVAE`](https://github.com/RenukaSharma/ss-gVAE) (here)   |
-| Ch. 4   | RU-VAE (ISBI 2022)                          | *coming soon*                 |
-| Ch. 5   | ss-ms-gVAE &mdash; multi-scale extension    | *coming soon*                 |
+| Ch. 4   | RU-VAE (ISBI 2022)                          | Paper: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9761472) · code: *coming soon* |
+| Ch. 5   | ss-ms-gVAE (Neurocomputing)                 | Paper: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S092523122401943X) · code: *coming soon* |
 | Ch. 6   | Anomaly localization (ss-vq-vae)            | [`ss-vq-vae`](https://github.com/RenukaSharma/ss-vq-vae) (in preparation) |
+
+The RU-VAE (Ch. 4) camera-ready PDF is also available on [Google Drive](https://drive.google.com/file/d/1fapKVmd193qVkeJokayVqOOKCsm52Kqg/view).
 
 ## Citation
 
@@ -300,6 +302,11 @@ Companion repositories from the same thesis:
   <https://github.com/lukasruff/Deep-SAD-PyTorch>.
 - The shallow-SSAD implementation is adapted from the original SSAD code by
   Görnitz *et al.*
+
+Scientific authorship for the WACV 2022 work is exactly as in the **Citation**
+section (BibTeX and `CITATION.cff` preferred citation). Assistance with
+repository preparation, editing, or tooling does **not** constitute
+co-authorship of the paper; you may add any such acknowledgements here.
 
 ## License
 
