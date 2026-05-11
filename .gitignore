@@ -51,6 +51,9 @@ data/
 *.pickle
 *.fig
 
+# WACV poster shipped with the repo (overrides *.pdf above)
+!229-wacv-poster.pdf
+
 # README / paper figures (tracked so GitHub renders images)
 !docs/figures/*.png
 !docs/figures/tsne/*.png
