@@ -8,7 +8,7 @@ Using One-Class Classification"*.
 
 ```bash
 conda env create -f environment.yml
-conda activate ss-generalized-vae
+conda activate ss-gvae
 ```
 
 The pinned versions (PyTorch 1.1.0, Python 3.7) match the original research

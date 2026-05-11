@@ -1,4 +1,4 @@
-name: ss-generalized-vae
+name: ss-gvae
 channels:
   - pytorch
   - conda-forge
