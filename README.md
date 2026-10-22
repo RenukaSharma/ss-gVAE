@@ -5,7 +5,18 @@ Reference implementation for the WACV 2022 paper
 Using One-Class Classification"**.
 
 [`Paper (CVF open-access)`](https://openaccess.thecvf.com/content/WACV2022/papers/Sharma_A_Semi-Supervised_Generalized_VAE_Framework_for_Abnormality_Detection_Using_One-Class_WACV_2022_paper.pdf)
+| [`Presentation (WACV 2022)`](https://www.youtube.com/watch?v=VQVaM_KcxA8)
+| [`WACV 2022`](https://wacv2022.thecvf.com/home)
 | [`Deep SAD (upstream framework)`](https://openreview.net/forum?id=HkgH0TEYwH)
+
+The official proceedings recording is on the Computer Vision Foundation channel.
+[WACV 2022](https://wacv2022.thecvf.com/home) was held in Waikoloa, Hawaii; the author attended virtually.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VQVaM_KcxA8">
+    <img src="https://img.youtube.com/vi/VQVaM_KcxA8/hqdefault.jpg" alt="WACV 2022 presentation: A Semi-Supervised Generalized VAE Framework for Abnormality Detection Using One-Class Classification" width="70%">
+  </a>
+</p>
 
 <p align="center">
   <img src="docs/figures/architecture.png" alt="ss-gVAE architecture" width="92%">
@@ -270,9 +281,9 @@ Companion repositories from the same thesis:
 | Chapter | Topic                                       | Repository                    |
 | ------- | ------------------------------------------- | ----------------------------- |
 | Ch. 3   | ss-gVAE &mdash; this repository             | [`ss-gVAE`](https://github.com/RenukaSharma/ss-gVAE) (here)   |
-| Ch. 4   | RU-VAE (ISBI 2022)                          | Paper: [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9761472) · code: *coming soon* |
-| Ch. 5   | ss-ms-gVAE (Neurocomputing)                 | Paper: [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S092523122401943X) · code: *coming soon* |
-| Ch. 6   | Anomaly localization (ss-vq-vae)            | [`ss-vq-vae`](https://github.com/RenukaSharma/ss-vq-vae) (in preparation) |
+| Ch. 4   | RU-VAE (ISBI 2022)                          | [`c-ss-gVAE`](https://github.com/RenukaSharma/c-ss-gVAE) |
+| Ch. 5   | c-ss-ms-gVAE (Neurocomputing)               | [`c-ss-ms-gVAE`](https://github.com/RenukaSharma/c-ss-ms-gVAE) |
+| Ch. 6   | ss-VQ-VAE (DICTA 2023)                      | [`ss-vq-vae`](https://github.com/RenukaSharma/ss-vq-vae) |
 
 The RU-VAE (Ch. 4) camera-ready PDF is also available on [Google Drive](https://drive.google.com/file/d/1fapKVmd193qVkeJokayVqOOKCsm52Kqg/view).
 
