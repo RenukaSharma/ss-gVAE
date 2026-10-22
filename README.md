@@ -10,11 +10,11 @@ Using One-Class Classification"**.
 | [`Deep SAD (upstream framework)`](https://openreview.net/forum?id=HkgH0TEYwH)
 
 The official proceedings recording is on the Computer Vision Foundation channel.
-[WACV 2022](https://wacv2022.thecvf.com/home) was held in Waikoloa, Hawaii; the author attended virtually.
+[WACV 2022](https://wacv2022.thecvf.com/home) was held in Waikoloa, Hawaii. Renuka Sharma attended the conference virtually.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VQVaM_KcxA8">
-    <img src="https://img.youtube.com/vi/VQVaM_KcxA8/hqdefault.jpg" alt="WACV 2022 presentation: A Semi-Supervised Generalized VAE Framework for Abnormality Detection Using One-Class Classification" width="70%">
+    <img src="docs/figures/wacv2022_presentation.jpg" alt="Play the WACV 2022 presentation on YouTube" width="70%">
   </a>
 </p>
 
