@@ -56,6 +56,7 @@ data/
 
 # README / paper figures (tracked so GitHub renders images)
 !docs/figures/*.png
+!docs/figures/*.jpg
 !docs/figures/tsne/*.png
 
 # Allow files under examples/ even though they may match patterns above.
